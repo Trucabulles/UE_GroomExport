@@ -1,1 +1,1 @@
-put this under your engine/plugin.
+Put this under your engine/plugin and compile it for your version of UE (you can start a new C++ project and just click "yes" when asked if you want to recompile the groom exporter). Tested in 5.3.2 and 5.4.1.
